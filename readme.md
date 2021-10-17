@@ -14,7 +14,9 @@
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/superyuuki?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
 </p>
 
-## My Projects
+<h2 align="center">
+  My Projects
+</h2>
 
 <p align="left">
   <a href="https://github.com/superyuuki/yuukomponent"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=superyuuki&repo=yuukomponent&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"></a>
@@ -24,6 +26,8 @@
   <a href="https://github.com/superyuuki?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
 </p>
 
-## 📊 Github stats
+<h2 align="center">
+  GitHub Stats
+</h2>
 
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="superyuuki's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=superyuuki&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
