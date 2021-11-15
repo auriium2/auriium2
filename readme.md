@@ -22,7 +22,7 @@
   <a href="https://github.com/superyuuki/yuukomponent"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=superyuuki&repo=yuukomponent&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"></a>
 </p>
 
-<p align="left">
+<p align="center">
   <a href="https://github.com/superyuuki/yuukomponent"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=superyuuki&repo=yuuki-dictionary&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"></a>
 </p>
 
