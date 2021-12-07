@@ -2,10 +2,6 @@
   Hi, I'm SuperYuuki!
 </h2>
 
-<h2 align="center">
-  MOTD
-</h2>
-
 <p align="center">
   <i>I only code on weekends. Coding, like the language I most often program in (Java), takes up too much of my memory. When I run out, I crash. </i>
 <p>
