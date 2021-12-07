@@ -2,11 +2,11 @@
   Hi, I'm SuperYuuki!
 </h2>
 
----
-
 <p align="center">
   <i>I only code on weekends. Coding, like the language I most often program in (Java), takes up too much of my memory. When I run out, I crash. </i>
 <p>
+  
+---
   
 <p align="center">
   <a href="https://discord.gg/tZTXEjstgJ" alt="My Discord"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
