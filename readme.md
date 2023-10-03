@@ -5,6 +5,9 @@
 <p align="center">
   <i> One of these days i'm going to write a game </i>
 <p>
+
+<h3 align="center">MY OLD ACCOUNT (More Activity & Minecraft)</h3>
+<p align="center">https://github.com/auriium</p>
   
 <h2 align="center">
   About Me
