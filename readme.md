@@ -13,7 +13,7 @@
   About Me
 </h2>
 
-<p>[Resume](https://github.com/superyuuki/resume.md)</p>
+<p align="center" href="https://github.com/superyuuki/resume.md">My (Coding) Resume</p>
 
 <p align="center">
   <a href="https://discord.gg/tZTXEjstgJ" alt="My Discord"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
