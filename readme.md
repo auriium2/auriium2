@@ -36,9 +36,9 @@
 </h2>
 
 <p align="center">
-  <a href="https://github.com/superyuuki/bblib"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=superyuuki&repo=yuukomponent2&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"></a>
-  <a href="https://github.com/superyuuki/shiv"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=superyuuki&repo=yuukonflict&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"></a>
-  <a href="https://github.com/superyuuki/yuukonfig"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=superyuuki&repo=yuukonfig&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"></a>
+  <a href="https://github.com/superyuuki/bblib"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=superyuuki&repo=bblib&theme=react&bg_color=1F222E&title_color=F22C2F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"></a>
+  <a href="https://github.com/superyuuki/shiv"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=superyuuki&repo=shiv&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"></a>
+  <a href="https://github.com/superyuuki/yuukonfig"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=superyuuki&repo=yuukonfig&theme=react&bg_color=1F222E&title_color=F47A7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"></a>
 </p>
 
 <p align="left">
