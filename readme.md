@@ -13,10 +13,11 @@
   About Me
 </h2>
 
-<p align="center" href="https://github.com/superyuuki/resume.md">My (Coding) Resume</p>
-
 <p align="center">
-  <a href="https://discord.gg/tZTXEjstgJ" alt="My Discord"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
+  
+  <a href="https://github.com/superyuuki/resume.md">
+    My Projects Resume
+  </a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
 
@@ -25,6 +26,9 @@
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/superyuuki"/></a>
   <a href="https://github.com/superyuuki?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/superyuuki?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+  <a href="https://discord.gg/tZTXEjstgJ" alt="My Discord">
+    <img width="32px" src="https://i.imgur.com/OViZO8J.png"/>
+  </a>
 </p>
 
 <h2 align="center">
