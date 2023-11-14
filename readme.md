@@ -49,15 +49,9 @@
   GitHub Stats
 </h2>
 
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="superyuuki's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=superyuuki&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="superyuuki's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=superyuuki&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
 
 <br>
-<h1 align="center"></h1>
-  <p align="center">
-    <a href="https://discord.com/users/899331013262598184">
-      <img height="80px" src="https://discord.c99.nl/widget/theme-4/899331013262598184.png">
-    </a>
-  </p>
 
 
