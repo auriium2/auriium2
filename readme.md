@@ -3,7 +3,7 @@
 </h2>
 
 <p align="center">
-  <i> One of these days i'm going to write a game </i>
+  <i> let me into your college </i>
 <p>
 
 <h3 align="center">MY OLD ACCOUNT (More Activity & Minecraft)</h3>
