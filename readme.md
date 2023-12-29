@@ -7,6 +7,8 @@
 <p>
 
 <h3 align="center">MY OLD ACCOUNT (More Activity & Minecraft)</h3>
+<p>THIS DUDE HAS FOLLOWERS AND STARS!!!</p>
+
 <p align="center">https://github.com/auriium</p>
   
 <h2 align="center">
