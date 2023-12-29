@@ -41,11 +41,18 @@
   <a href="https://github.com/superyuuki/bblib"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=superyuuki&repo=bblib&theme=react&bg_color=1F222E&title_color=F22C2F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"></a>
   <a href="https://github.com/superyuuki/shiv"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=superyuuki&repo=shiv&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"></a>
   <a href="https://github.com/superyuuki/yuukonfig"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=superyuuki&repo=yuukonfig&theme=react&bg_color=1F222E&title_color=F47A7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"></a>
+   <a href="https://github.com/superyuuki/branch"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=superyuuki&repo=branch&theme=react&bg_color=1F222E&title_color=F47A7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"></a>
+   <a href="https://github.com/superyuuki/bungeesuite"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=superyuuki&repo=bungeesuite&theme=react&bg_color=1F222E&title_color=F47A7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"></a>
+   <a href="https://github.com/superyuuki/opentutorial"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=superyuuki&repo=opentutorial&theme=react&bg_color=1F222E&title_color=F47A7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"></a>
+   <a href="https://github.com/superyuuki/yuukonfig"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=superyuuki&repo=yuukonfig&theme=react&bg_color=1F222E&title_color=F47A7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"></a>
+   <a href="https://github.com/superyuuki/yuukontainer"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=superyuuki&repo=yuukontainer&theme=react&bg_color=1F222E&title_color=F47A7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"></a>
+   <a href="https://github.com/superyuuki/starsector-arc-mod"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=superyuuki&repo=starsector-arc-mod&theme=react&bg_color=1F222E&title_color=F47A7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"></a>
 </p>
 
 <p align="left">
   <a href="https://github.com/superyuuki?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
 </p>
+
 
 <h2 align="center">
   GitHub Stats
