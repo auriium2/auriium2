@@ -1,14 +1,8 @@
 <h2 align="center">
-  Hi, I'm SuperYuuki!
+  hi, i'm auriium
 </h2>
 
-<p align="center">
-  <i> let me into your college </i>
-<p>
-
-<h3 align="center">MY OLD ACCOUNT (More Activity & Minecraft)</h3>
-<p align="center">THIS ONE HAS FOLLOWERS AND STARS!!!</p>
-
+<h3 align="center">old account:</h3>
 <p align="center">https://github.com/auriium</p>
   
 <h2 align="center">
