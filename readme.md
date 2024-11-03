@@ -5,17 +5,6 @@
 <h3 align="center">old account:</h3>
 <p align="center">https://github.com/auriium</p>
   
-<h2 align="center">
-  About Me
-</h2>
-
-<p align="center">
-  
-  <a href="https://github.com/auriium2/resume.md">
-    My Projects Resume
-  </a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-</p>
 
 <p align="center">
   <a href="https://github.com/auriium2?tab=followers">
