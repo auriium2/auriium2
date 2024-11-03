@@ -1,5 +1,5 @@
 ### Auriium (Matt Lui)
-> Rust and Java backend developer
+> Controls/Robotics, Backend and Databases
 
 ### Statistics
 
