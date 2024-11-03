@@ -1,42 +1,10 @@
-<h2 align="center">
-  hi, i'm auriium
-</h2>
+### Auriium (Matt Lui)
+> Rust and Java backend developer
 
-<h3 align="center">old account:</h3>
-<p align="center">https://github.com/auriium</p>
-  
+### Statistics
 
-<p align="center">
-  <a href="https://github.com/auriium2?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/auriium2?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-  <a href="https://discord.gg/tZTXEjstgJ" alt="My Discord">
-    <img width="32px" src="https://i.imgur.com/OViZO8J.png"/>
-  </a>
-</p>
+![Auriium github stats](https://github-readme-stats.vercel.app/api?username=Auriium2&show_icons=true&theme=onedark&count_private=true)
 
-<h2 align="center">
-  My Projects
-</h2>
-
-<p align="center">
-  <a href="https://github.com/auriium2/bblib"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=auriium2&repo=bblib&theme=react&bg_color=1F222E&title_color=F22C2F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"></a>
-  <a href="https://github.com/auriium2/shiv"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=auriium2&repo=shiv&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"></a>
-  <a href="https://github.com/auriium2/yuukonfig"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=auriium2&repo=yuukonfig&theme=react&bg_color=1F222E&title_color=F47A7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"></a>
-
-</p>
-
-<p align="left">
-  <a href="https://github.com/auriium2?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
-</p>
-
-
-<h2 align="center">
-  GitHub Stats
-</h2>
-
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="auriium2's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=auriium2&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
-
-
-<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Auriium2&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
 
