@@ -1,7 +1,16 @@
-### Auriium (Matt Lui)
+# Auriium (Matt Lui)
 > Controls/Robotics, Backend and Databases
 
-### Statistics
+## TLDR
+- ???
+- ???
+- ???
+- ???
+
+## .me
+???
+
+## Statistics
 
 ![Auriium github stats](https://github-readme-stats.vercel.app/api?username=Auriium2&show_icons=true&theme=onedark&count_private=true)
 
