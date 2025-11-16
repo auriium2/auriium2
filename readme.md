@@ -2,13 +2,26 @@
 > Controls/Robotics, Backend and Databases
 
 ## TLDR
-i build things that think + move. mit ’28. controls/robotics × backend/db. rust/java/c++/python. clean apis > clever hacks.
+i am cool
 
-## .me
-tucson AZ or cambridge MA. try to dox me, i'll dox myself first. 
-
-## Statistics
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Auriium2&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
-
-
+<svg width="800" height="80" xmlns="http://www.w3.org/2000/svg">
+  <rect width="800" height="80" fill="#0d1117"/>
+  
+  <style>
+    .scroll-text {
+      font-family: 'Courier New', monospace;
+      font-size: 24px;
+      fill: #58a6ff;
+      animation: marquee 15s linear infinite;
+    }
+    
+    @keyframes marquee {
+      from { transform: translateX(100%); }
+      to { transform: translateX(-100%); }
+    }
+  </style>
+  
+  <text class="scroll-text" y="50">
+    please employment • please employment • please employment • please employment • please employment
+  </text>
+</svg>
